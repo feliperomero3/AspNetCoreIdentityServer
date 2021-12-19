@@ -2,7 +2,7 @@
 
 ASP.NET Core Identity with IdentityServer4
 
-This code is based from the ASP.NET Core Template "IdentityServer4AspNetCoreIdentityTemplate" built by [damienbod](https://github.com/damienbod).
+This project is based on the ASP.NET Core Template "IdentityServer4AspNetCoreIdentityTemplate" built by [damienbod](https://github.com/damienbod).
 Specifically the release [5.1.3](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate/tree/release_5_1_3)
 
 Your first have to install the template and then you can create a new project.
