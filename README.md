@@ -2,7 +2,7 @@
 
 ASP.NET Core Identity with IdentityServer4
 
-This project is based on the ASP.NET Core Template "IdentityServer4AspNetCoreIdentityTemplate" built by [damienbod](https://github.com/damienbod).
+This project has been created from the ASP.NET Core Template "IdentityServer4AspNetCoreIdentityTemplate" built by [damienbod](https://github.com/damienbod).
 Specifically the release [5.1.3](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate/tree/release_5_1_3)
 
 Your first have to install the template and then you can create a new project.
@@ -12,6 +12,8 @@ Your first have to install the template and then you can create a new project.
 In order to get the `.nupkg` package file you have to build from the source.
 
 ```cmd
+git clone https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate/tree/release_5_1_3
+
 nuget pack content/IdentityServer4AspNetCoreIdentityTemplate.nuspec
 
 dotnet new -i IdentityServer4AspNetCoreIdentityTemplate.5.1.3.nupkg
